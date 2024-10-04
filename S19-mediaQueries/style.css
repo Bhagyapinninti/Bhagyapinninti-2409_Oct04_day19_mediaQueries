@@ -1,0 +1,186 @@
+
+body{
+    background-color: peachpuff;
+}
+
+h1{
+    background-color: darkslategrey;
+    color: whitesmoke;
+    border: 10px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 10px 10px 10px black;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2rem;
+}
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2rem;
+}
+
+    
+
+
+@media screen and (min-width:0px)and (max-width:576px)
+{
+    body{
+        background-color: aquamarine;
+    }
+    h1{
+        background-color: darkslategrey;
+        color: whitesmoke;
+        border: 10px solid darkolivegreen;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 10px 10px 10px black;
+    }
+    
+}
+
+@media screen and (min-width:576px)and (max-width:768px)
+{
+    body{
+        background-color:chartreuse;
+    }
+    h1{
+        background-color: white;
+        color: firebrick;
+        border: 10px solid black;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 10px 10px 10px black;
+    }
+}
+@media screen and (min-width:768px)and (max-width:992px)
+{
+    body{
+        background-color:aqua;
+    }
+    h1{
+        background-color: ivory;
+        color: crimson;
+        border: 10px solid darkblue;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 10px 10px 10px black;
+    }
+}
+@media screen and (min-width:992px)and (max-width:1200px)
+{
+    body{
+        background-color:lightgreen;
+    } 
+    h1{
+        background-color: lightslategray;
+        color: bisque;
+        border: 10px solid darkolivegreen;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 10px 10px 10px black;
+    }
+}
+@media screen and (min-width:1200px)and (max-width:1400px)
+{
+    body{
+        background-color: lightseagreen;
+    } 
+    h1{
+        background-color: khaki;
+        color: blue;
+        border: 10px solid darkcyan;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 3rem;
+        text-shadow: 10px 10px 10px black;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{
+    background-color: blue;
+}
+@media(min-width:700px)
+{
+    h1{
+        color: white;
+    }
+}
+@media(max-width:800px)
+{
+    h1{
+        color: crimson;
+    }
+}
+@media screen and (max-width:1200px)
+{
+    h1{
+        background-color: aquamarine;
+    }
+    body{
+        background-color: darksalmon;
+    }
+}
+@media screen and (max-width:1000px)
+{
+    body{
+        background-color: chartreuse;
+    }
+}*/
+
+
+
+
+
